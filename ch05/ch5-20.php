@@ -21,5 +21,8 @@
 	print "유태인식 ";
 	kosher_dinner();
 	print "일반 저녁 메뉴는 $dinner 입니다.";
+	
+	
+	print "깃에서 한글 자음모음분리 설정 변경 테스트 커밋입니다."
 	?>
 
